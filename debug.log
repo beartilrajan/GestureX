@@ -1,0 +1,62 @@
+22:50:30 [AirControl] INFO: Screen: 1920 x 1080
+W0000 00:00:1774200030.778793   24504 face_landmarker_graph.cc:180] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1774200030.784233   24584 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774200030.794215   24584 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774200030.811773   12956 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774200030.819894     744 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+22:50:30 [AirControl] INFO: Using mic [1]: Microphone (HyperX Cloud Stinge @ 44100Hz
+22:50:30 [AirControl] INFO: Calibrating mic...
+22:50:30 [AirControl] INFO: AirControl started. Press Q to quit.
+W0000 00:00:1774200031.431186   19452 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+22:50:32 [AirControl] INFO: Mic ready. Noise=0 Threshold=150
+22:50:32 [AirControl] INFO: Voice listening started.
+22:50:33 [AirControl] INFO: Speech! energy=561
+22:50:34 [AirControl] INFO: Captured 12 chunks
+22:50:35 [AirControl] INFO: Heard: 'hello'
+22:50:35 [AirControl] INFO: Speech! energy=410
+22:50:35 [AirControl] INFO: Voice received: 'hello'
+22:50:35 [AirControl] INFO: Typing: 'hello'
+22:50:35 [AirControl] INFO: Typed OK
+22:50:36 [AirControl] INFO: Captured 21 chunks
+22:50:37 [AirControl] INFO: Heard: 'hello mike test 123'
+22:50:37 [AirControl] INFO: Voice received: 'hello mike test 123'
+22:50:37 [AirControl] INFO: Typing: 'hello mike test 123'
+22:50:38 [AirControl] INFO: Typed OK
+22:50:38 [AirControl] INFO: Listening... energy=1 threshold=150
+22:50:38 [AirControl] INFO: Voice OFF
+22:50:38 [AirControl] INFO: Voice ON
+22:50:39 [AirControl] INFO: DRAG START (1137,772)
+22:50:39 [AirControl] INFO: DRAG END (1137,769)
+22:50:39 [AirControl] INFO: DRAG START (1136,771)
+22:50:39 [AirControl] INFO: DRAG END (1141,771)
+22:50:40 [AirControl] INFO: DRAG START (1195,616)
+22:50:40 [AirControl] INFO: DRAG END (1073,329)
+22:50:41 [AirControl] INFO: Listening... energy=3 threshold=150
+22:50:41 [AirControl] INFO: DRAG START (890,298)
+22:50:41 [AirControl] INFO: DRAG END (882,317)
+22:50:44 [AirControl] INFO: Listening... energy=0 threshold=150
+22:50:44 [AirControl] INFO: DRAG START (826,315)
+22:50:45 [AirControl] INFO: DRAG END (819,312)
+22:50:46 [AirControl] INFO: DRAG START (1109,160)
+22:50:47 [AirControl] INFO: DRAG END (1145,154)
+22:50:47 [AirControl] INFO: Listening... energy=0 threshold=150
+22:50:50 [AirControl] INFO: Listening... energy=0 threshold=150
+22:50:51 [AirControl] INFO: DRAG START (1621,939)
+22:50:51 [AirControl] INFO: DRAG END (1612,947)
+22:50:53 [AirControl] INFO: DRAG START (1850,983)
+22:50:53 [AirControl] INFO: DRAG END (1861,978)
+22:50:53 [AirControl] INFO: Listening... energy=0 threshold=150
+22:50:55 [AirControl] INFO: DRAG START (825,972)
+22:50:55 [AirControl] INFO: DRAG END (822,972)
+22:50:56 [AirControl] INFO: Listening... energy=0 threshold=150
+22:50:59 [AirControl] INFO: Listening... energy=999 threshold=150
+22:50:59 [AirControl] INFO: Speech! energy=999
+22:51:00 [AirControl] INFO: Captured 12 chunks
+22:51:00 [AirControl] INFO: Heard: 'hello'
+22:51:00 [AirControl] INFO: Voice received: 'hello'
+22:51:00 [AirControl] INFO: Typing: 'hello'
+22:51:01 [AirControl] INFO: Typed OK
+22:51:03 [AirControl] INFO: Listening... energy=0 threshold=150
+22:51:05 [AirControl] INFO: Shutting down...
+Calibration loaded.
